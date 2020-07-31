@@ -1,1 +1,1 @@
-![Robert Montgomery Quote](css-neon-letters.jpg)
+![Robert Montgomery Quote](/css-neon-letters.jpg)
