@@ -1,4 +1,4 @@
-# Oliver Frolovs&mdash;@olliefr
+# Oliver Frolovs&hairsp;&mdash;&hairsp;@olliefr
 
 The technology isn't about gadgets or hype. To design and build is human. I see **Engineering** as the *ultimate form of art*.
 
