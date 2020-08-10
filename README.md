@@ -10,3 +10,6 @@ The technology isn't about gadgets or hype. To design and build is human. I see 
 :cloud: Now I'm ascending into the Cloud.<br>
 
 We have the tools. Let's build the future!
+
+----
+[![Python Associate badge](pcap-31-02-pcap-certified-associate-in-python-programming.png)](https://www.youracclaim.com/badges/1f7ce0ee-2597-4ad1-bad2-968c6551f66a/public_url)
