@@ -12,4 +12,4 @@ The technology isn't about gadgets or hype. To design and build is human. I see 
 We have the tools. Let's build the future!
 
 ----
-[![Python Associate badge](pcap-31-02-pcap-certified-associate-in-python-programming.png)](https://www.youracclaim.com/badges/1f7ce0ee-2597-4ad1-bad2-968c6551f66a/public_url)
+[![Python Associate badge](https://raw.githubusercontent.com/olliefr/olliefr/master/pcap-31-02-pcap-certified-associate-in-python-programming.png)](https://www.youracclaim.com/badges/1f7ce0ee-2597-4ad1-bad2-968c6551f66a/public_url)
