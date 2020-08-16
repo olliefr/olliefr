@@ -22,3 +22,8 @@ We have the tools. Let's build the future!
 
 ----
 [![Python Associate badge](https://raw.githubusercontent.com/olliefr/olliefr/master/pcap-31-02-pcap-certified-associate-in-python-programming.png)](https://www.youracclaim.com/badges/1f7ce0ee-2597-4ad1-bad2-968c6551f66a/public_url)
+
+<!-- RealPython Certificates -->
+<!--
+* <a href="https://realpython.com/certificates/5bb6d51f-7300-4a70-a675-cbfe95e41389/">Working With Python Virtual Environments on Real Python</a>
+-->
