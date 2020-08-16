@@ -25,5 +25,6 @@ We have the tools. Let's build the future!
 
 <!-- RealPython Certificates -->
 <!--
+* <a href="https://realpython.com/certificates/ac7fafbd-bcbc-4c8e-a946-5c22539dda07/">Structuring a Python Application on Real Python</a>
 * <a href="https://realpython.com/certificates/5bb6d51f-7300-4a70-a675-cbfe95e41389/">Working With Python Virtual Environments on Real Python</a>
 -->
