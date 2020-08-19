@@ -18,10 +18,11 @@ The technology isn't about gadgets or hype. To design and build is human. I see 
 :zap: Then I had discovered a paradigm shift in Internet technology. It felt like... *the future is already here*.<br>
 :cloud: Now I'm ascending into the Cloud.<br>
 
-We have the tools. Let's build the future!
+&emsp;
 
 ----
-[![Python Associate badge](https://raw.githubusercontent.com/olliefr/olliefr/master/pcap-31-02-pcap-certified-associate-in-python-programming.png)](https://www.youracclaim.com/badges/1f7ce0ee-2597-4ad1-bad2-968c6551f66a/public_url)
+[![Python Associate badge](https://raw.githubusercontent.com/olliefr/olliefr/master/pcap-31-02-pcap-certified-associate-in-python-programming.png)](https://www.youracclaim.com/badges/1f7ce0ee-2597-4ad1-bad2-968c6551f66a/public_url) &emsp;
+[![Automation with Python badge](https://raw.githubusercontent.com/olliefr/olliefr/master/google-it-automation-with-python-certificate.png)](https://www.youracclaim.com/badges/e089c085-dad2-4344-b42e-78269eae8d07/public_url)
 
 <!-- RealPython Certificates -->
 <!--
