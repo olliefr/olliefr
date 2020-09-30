@@ -23,7 +23,10 @@ The technology isn't about gadgets or hype. To design and build is human. I see 
 
 &emsp;
 
-----
+## The United Kingdom of Badges
+
+They are *clickable*, leading to a brief summary of *skills developed* and the list of *earning criteria*. 
+
 [![Enterprise Design Thinking Practitioner badge](https://raw.githubusercontent.com/olliefr/olliefr/master/ibm-enterprise-design-thinking-practitioner.png)](https://www.youracclaim.com/badges/77b0ccdd-8793-499d-94c8-69a9a2b717b8/public_url) &emsp;
 [![Terraform Associate badge](https://raw.githubusercontent.com/olliefr/olliefr/master/hashicorp-terraform-associate.png)](https://www.youracclaim.com/badges/196179bf-1de3-4afd-b073-87729ea6040d/public_url) &emsp;
 [![Python Associate badge](https://raw.githubusercontent.com/olliefr/olliefr/master/pcap-31-02-pcap-certified-associate-in-python-programming.png)](https://www.youracclaim.com/badges/1f7ce0ee-2597-4ad1-bad2-968c6551f66a/public_url) &emsp;
