@@ -1,3 +1,8 @@
+To design and build is human. I see **Engineering** as the *ultimate form of art*. In this way, *I am an artist*.
+
+---
+
+<!--
 # Oliver Frolovs&hairsp;&mdash;&hairsp;@olliefr
 
 ![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=orange)
@@ -6,13 +11,13 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-Make-informational?style=flat&logo=cmake&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=orange)
-
-The technology isn't about gadgets or hype. To design and build is human. I see **Engineering** as the *ultimate form of art*.
+-->
 
 :shipit: I've been in **Dev**. I've been in **Ops**. I've been in **QA**.<br>
 :skull: Then I was hurt and I was lost. Life became devoid of meaning.<br>
