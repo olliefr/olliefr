@@ -1,13 +1,14 @@
-Lifetime learner on a journey of discovery.
-Hanging out in the Cloud, with blackjack and gophers! :cloud_with_lightning::hamster:
+Lifetime learner on a journey of discovery :cloud_with_lightning::hamster:
 
-My favourite tech is: [Google Cloud Platform], [Terraform], [Docker], [Ubuntu Linux], [Go], [Git], and [Python].
+My favourite tech stack is: [Google Cloud Platform], [Kubernetes], [Terraform], [Docker], [openSUSE] and [Ubuntu] Linux, [Go], [Git], and [Python].
 
-I have a soft spot for embedded systems, especially for modern [ARM] microcontrollers, such as ARMv8 and ARMv9.
+I have a soft spot for modern [ARM] microcontrollers as well... 😅
 
 [Google Cloud Platform]: https://cloud.google.com/
+[Kubernetes]: https://kubernetes.io/
 [Terraform]: https://www.terraform.io/
-[Ubuntu Linux]: https://ubuntu.com/
+[openSUSE]: https://www.opensuse.org/
+[Ubuntu]: https://ubuntu.com/
 [Go]: https://golang.org/
 [Git]: https://git-scm.com/
 [Python]: https://www.python.org/
