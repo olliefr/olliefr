@@ -23,7 +23,7 @@ I have a soft spot for modern [ARM] microcontrollers as well... 😅
 [![Google Cloud Certified Cloud Digital Leader badge](https://raw.githubusercontent.com/olliefr/olliefr/master/google-cloud-certified-cloud-digital-leader.png)](https://www.credential.net/ed191d47-b467-46d7-aef0-9f245dc43829) &emsp;
 
 [![Linux Foundation Certified Systems Administrator badge](https://raw.githubusercontent.com/olliefr/olliefr/master/lfcs-linux-foundation-certified-systems-administrator.png)](https://www.credly.com/badges/0a0f01ba-a2f4-400f-946b-e14735c26aa6) &emsp;
-[![Terraform Associate badge](https://raw.githubusercontent.com/olliefr/olliefr/master/hashicorp-terraform-associate.png)](https://www.youracclaim.com/badges/196179bf-1de3-4afd-b073-87729ea6040d/public_url) &emsp;
+[![Terraform Associate badge](https://raw.githubusercontent.com/olliefr/olliefr/master/hashicorp-certified-terraform-associate-164.png)](https://www.youracclaim.com/badges/196179bf-1de3-4afd-b073-87729ea6040d/public_url) &emsp;
 [![Python Associate badge](https://raw.githubusercontent.com/olliefr/olliefr/master/pcap-31-02-pcap-certified-associate-in-python-programming.png)](https://www.youracclaim.com/badges/1f7ce0ee-2597-4ad1-bad2-968c6551f66a/public_url) &emsp;
 
 ## Professional development
