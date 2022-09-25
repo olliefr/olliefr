@@ -21,9 +21,10 @@ I have a soft spot for modern [ARM] microcontrollers as well... 😅
 [![Google Cloud Certified Professional Cloud Security Engineer badge](./images/credentials/google/google-cloud-certified-professional-cloud-security-engineer.png)](https://www.credential.net/d1408d56-7401-49b7-96e1-0a695a364114) &emsp;
 [![Google Cloud Certified Professional Cloud Network Engineer badge](./images/credentials/google/google-cloud-certified-professional-cloud-network-engineer.png)](https://www.credential.net/e9ffc93b-2f1e-4fa2-a2b5-9411d2635574) &emsp;
 
-[![Google Cloud Certified Associate Cloud Engineer badge](./images/credentials/google/google-cloud-certified-associate-cloud-engineer.png)](https://www.credential.net/e86d5bfb-a57e-49ec-9132-1b0f8e7c08cf) &emsp;
+[![Google Cloud Certified Professional Cloud DevOps Engineer badge](./images/credentials/google/google-cloud-certified-professional-cloud-devops-engineer.png)](https://www.credential.net/46cba05c-02c0-48eb-8e2c-90b4e5d690be) &emsp;
 [![Google Cloud Certified Professional Data Engineer badge](./images/credentials/google/google-cloud-certified-professional-data-engineer.png)](https://www.credential.net/99a4cf49-7d07-411b-af08-15c1589eb59c) &emsp;
 [![Google Cloud Certified Cloud Digital Leader badge](./images/credentials/google/google-cloud-certified-cloud-digital-leader.png)](https://www.credential.net/ed191d47-b467-46d7-aef0-9f245dc43829) &emsp;
+[![Google Cloud Certified Associate Cloud Engineer badge](./images/credentials/google/google-cloud-certified-associate-cloud-engineer.png)](https://www.credential.net/e86d5bfb-a57e-49ec-9132-1b0f8e7c08cf) &emsp;
 
 [![Linux Foundation Certified Systems Administrator badge](./images/credentials/lf/lfcs-linux-foundation-certified-systems-administrator.png)](https://www.credly.com/badges/0a0f01ba-a2f4-400f-946b-e14735c26aa6) &emsp;
 [![Terraform Associate badge](./images/credentials/hashicorp/hashicorp-certified-terraform-associate-164.png)](https://www.youracclaim.com/badges/196179bf-1de3-4afd-b073-87729ea6040d/public_url) &emsp;
