@@ -15,6 +15,8 @@ I have a soft spot for modern [ARM] microcontrollers as well... 😅
 [Docker]: https://www.docker.com/
 [ARM]: https://www.arm.com/
 
+I give talks occasionally: [Keep your head in the Clouds](https://gdsc.community.dev/events/details/developer-student-clubs-university-of-novi-sad-presents-keep-your-head-in-the-clouds/)
+
 ## Certified
 
 [![Google Cloud Certified Professional Cloud Architect badge](./images/credentials/google/google-cloud-certified-professional-cloud-architect.png)](https://www.credential.net/a1b633aa-914a-485d-8520-b4d41c3d7803) &emsp;
