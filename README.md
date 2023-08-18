@@ -24,10 +24,10 @@ My current interests are **machine learning** and **Cloud computing**. I'm very 
 
 ## Professional certification
 
-* My Google Cloud [certification record](https://googlecloudcertified.credential.net/profile/f3c409490600bb5cfbdbff2a277d9ef70fbad066) is quite extensive.
-* I'm also a Google Cloud [Authorised Trainer](https://www.credential.net/d98e0516-aada-4129-8618-26ad58615453).
-* HashiCorp [Terraform Associate](https://www.youracclaim.com/badges/196179bf-1de3-4afd-b073-87729ea6040d/public_url)
-* and a whole zoo of other certs...
+* My [Google Cloud certifications](https://googlecloudcertified.credential.net/profile/f3c409490600bb5cfbdbff2a277d9ef70fbad066).
+* I'm also a [Google Cloud Authorised Trainer](https://www.credential.net/d98e0516-aada-4129-8618-26ad58615453).
+* HashiCorp [Terraform Associate](https://www.youracclaim.com/badges/196179bf-1de3-4afd-b073-87729ea6040d/public_url).
+* and a bunch of other certs...
 
 ## Public speaking
 
