@@ -6,7 +6,7 @@ My *smol* tech consultancy [Devil Mice Labs](https://devilmicelabs.com/) is vend
 
 ### Certifications
 
-I am certified in [Google Cloud](https://www.credly.com/users/oliver-frolovs), [Databricks](https://credentials.databricks.com/profile/oliver-frolovs/), Terraform, and Kubernetes ☺️
+I am certified in [Google Cloud](https://www.credly.com/users/oliver-frolovs), [Databricks](https://credentials.databricks.com/profile/oliver-frolovs/), Terraform, and [Kubernetes](https://www.credly.com/badges/fa9954a6-4bcb-4a77-ac03-96542dfda8f1) ☺️
 
 ### Public speaking
 
