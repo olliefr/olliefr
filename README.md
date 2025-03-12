@@ -1,12 +1,12 @@
-I'm a principal-level multi-skilled freelancer. I can troubleshoot and fix almost any system, whatever it takes 😈 
+I'm a principal-level multi-skilled freelancer. 
 
-My current interests are cloud-native systems, data lakehouses, data analytics, and machine learning. I study new tech and practice my craft every day. For an up-to-date list of buzzwords, check out [my LinkedIn profile](https://www.linkedin.com/in/ofr/).
+My current interests are cloud-native systems, data lakehouses, data analytics, and machine learning. I study new tech and practice my craft every day. For an up-to-date list of buzzwords, check out [my LinkedIn profile](https://www.linkedin.com/in/oliver-frolovs/).
 
 My *smol* tech consultancy [Devil Mice Labs](https://devilmicelabs.com/) is vendor-neutral and truly client-oriented `<:3)~`
 
-### Shiny Trinkets
+### Certifications
 
-I am quite extensively [certified in Google Cloud](https://www.credly.com/users/oliver-frolovs) and a few other adjacent technologies ☺️ 
+I am certified in [Google Cloud](https://www.credly.com/users/oliver-frolovs), [Databricks](https://credentials.databricks.com/profile/oliver-frolovs/), Terraform, and Kubernetes ☺️
 
 ### Public speaking
 
